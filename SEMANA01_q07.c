@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int calcula(int n, int type) { 
     n = n - (type * (n / type));
@@ -46,4 +46,4 @@ int main(void) {
   }
 
   return 0;
-}
+}*/
