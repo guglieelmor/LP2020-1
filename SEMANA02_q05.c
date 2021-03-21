@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main(void) {
 
@@ -11,4 +11,4 @@ int main(void) {
     printf("%i %i ",  n2 - n1,  n2 - n1 - 1);
   }
   return 0;
-}
+}*/
